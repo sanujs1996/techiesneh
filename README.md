@@ -3,13 +3,7 @@
 
 <h1 align="center">Hi  &nbsp;<a href="http://techiesneh.epizy.com"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Techie Sneh 😎</h1>
 
-<p align="center">
-<a href="https://codepen.io/techiesneh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="avipatilpro" height="30" width="40" /></a>
-
-</p>
-
-
-<h4 align="center">Closed-Source Developement and Always Develop in Python 🐍 <br> I Like to work privately</h4>
+<h4 align="center">Always Develop in Python 🐍 <br> I Like to work privately</h4>
 
 
 <p align="center"> <a href="https://github.com/techiesneh/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=techiesneh&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="techiesneh" /></a> </p><br>
