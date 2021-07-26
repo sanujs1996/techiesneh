@@ -1,7 +1,7 @@
 <!-- Copyrights Techie Sneh 
      feel free to fork this -->
 
-<h1 align="center">Hi  &nbsp;<a href="http://techiesneh.epizy.com"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Techie Sneh 😎</h1>
+<h1 align="center">Hi  &nbsp;<a href="http://techiesneh.epizy.com"><img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="48px"></a>, I'm Techie Sneh 😎</h1>
 
 <h4 align="center">Always Develop in Python 🐍 <br> I Like to work privately</h4>
 
