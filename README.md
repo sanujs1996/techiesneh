@@ -15,7 +15,7 @@
 - 🌱 I’m already know html , css & xml . 
 - 🌱 I’m currently learning php, python, mysql & ethical hacking courses .
 - 📫 How to reach me :- techiesneh@protonmail.com 
-- 📫 How to reach me :- <a href="https://t.me/techiesneh">Telegram</a></p><br> @techiesneh 
+- 📱  How to reach me :- <a href="https://t.me/techiesneh">Telegram</a></p><br> @techiesneh 
 
 <!---
 techiesneh/techiesneh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
