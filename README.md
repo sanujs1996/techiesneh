@@ -14,7 +14,7 @@
 - 👀 I’m interested in programming & little bit in hacking .
 - 🌱 I’m already know html , javascript , bootstrap , css & xml . 
 - 🌱 I’m currently learning php, python, mysql & ethical hacking courses .
-- 📫 How to reach me :- techiesneh@protonmail.com 
+- 📫 E-Mail at :- techiesneh@protonmail.com 
 - 📱  How to reach me :- <a href="https://t.me/techiesneh">Telegram</a></p><br> @techiesneh 
 
 <!---
