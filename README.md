@@ -21,9 +21,13 @@
 - ✔️ 👀 I’m interested in programming & little bit in hacking .
 - ✔️ 🌱 I’m already know html , javascript , bootstrap , css & xml . 
 - ✔️ 🌱 I’m currently learning php, python, mysql & ethical hacking courses .
-- ✔️ 📫 E-Mail at :- techiesneh@protonmail.com 
+- ✔️ 📫 E-Mail at :- techiesneh@gmail.com 
 - ✔️ 📱 Contact me :- <a href="https://t.me/techiesneh">Telegram</a>
-- ✔️ 📩 Join Our Telegram Group :- <a href="https://t.me/techiesneh007">Techie Sneh</a><br><br>   @techiesneh
+
+
+
+
+
 
 <!---
 techiesneh/techiesneh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
