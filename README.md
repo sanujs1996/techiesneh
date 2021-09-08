@@ -60,6 +60,6 @@
 <br />
 
 
-[![TechieSneh's github stats](https://github-readme-stats.vercel.app/api?username=techiesneh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### Stats ⚡️
 
-
+![TechieSneh's github stats](https://github-stats-alpha.vercel.app/api/?username=techiesneh)
