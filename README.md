@@ -1,6 +1,6 @@
 <!-- Copyrights Techie Sneh  -->
 
-<h1 align="center">&nbsp;<a href="http://techiesneh.rf.gd"><img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="48px"></a> I'm Techie Sneh 🧑‍💻</h1>
+<h2 align="center">&nbsp;<a href="http://techiesneh.rf.gd"><img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="40px"></a> I'm Techie Sneh <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="40px"> <br> <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/techies.png" width="48px"> </h2>
 
 <h4 align="center">Always Develop in Python 🐍 <br> I Like to work Privately 🔏</h4>
 
