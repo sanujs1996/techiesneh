@@ -2,14 +2,14 @@
 
 <h1 align="center">&nbsp;<a href="http://techiesneh.rf.gd"><img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/575a20918d349a354cc636a0d49b35a0.gif" width="40px"></a> I'm Sneh <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="40px"> <br> <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/techies.png" width="48px"> </h1>
 
-<h4 align="center">Always Develop in Python 🐍 <br> I Like to work Privately 🔏</h4>
+<h4 align="center">Always Plays with Languages 🐍 <br> I Like to work Privately 🔏 <br> 🤹‍♂️ For Chill Join Discord :- https://discord.gg/m69qZNQ2w6  <br></h4>
 
 <p align='center'> 
 <a href="https://codepen.io/techiesneh"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/techiesneh"><img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 <a href="http://techiesneh.rf.gd"><img height="25" src="https://img.shields.io/badge/Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/techiesneh"><img height="25" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="#"><img height="25" src="https://img.shields.io/badge/EnjoyMilk-%23ffffff.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=yellow"></a>&nbsp;&nbsp;
+<a href="https://discord.gg/m69qZNQ2w6"><img height="25" src="https://img.shields.io/badge/join discord-%23ffffff.svg?&style=for-the-badge&logo=discord&logoColor=blue"></a>&nbsp;&nbsp;
 </p>
 
 
@@ -23,9 +23,9 @@
 ✔️ 👀 I’m interested in coding & little bit in hacking stuffs .<br>
 ✔️ 🤠 I’m already know html , javascript , bootstrap , mysql , css & xml . <br>
 ✔️ 📝 I’m currently learning php, python & ethical courses .<br>
+✔️ 🤹‍♂️ For Chill Join Discord :- https://discord.gg/m69qZNQ2w6  <br>
 ✔️ 📧 E-Mail at :- techiesneh@gmail.com <br>
 ✔️ ☎ Contact me :- <a href="https://t.me/techiesneh">Telegram</a><br>
-
 
 ### Languages and Tools:
 
