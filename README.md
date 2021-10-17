@@ -2,7 +2,7 @@
 
 <h1 align="center">&nbsp;<a href="http://techiesneh.rf.gd"><img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/575a20918d349a354cc636a0d49b35a0.gif" width="40px"></a> I'm Sneh <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="40px"> <br> <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/techies.png" width="48px"> </h1>
 
-<h4 align="center">Always Plays with Languages 🐍 <br> I Like to work Privately 🔏 <br> 🤹‍♂️ For Chill Join Discord :- https://discord.gg/m69qZNQ2w6  <br></h4>
+<h4 align="center">Always Plays with Languages 🐍 <br> I Like to work Privately 🔏 <br> 🤹‍♂️ For Chill Join Discord :- <a href="https://discord.gg/m69qZNQ2w6">Join Here</a><br></h4>
 
 <p align='center'> 
 <a href="https://codepen.io/techiesneh"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
@@ -23,7 +23,7 @@
 ✔️ 👀 I’m interested in coding & little bit in hacking stuffs .<br>
 ✔️ 🤠 I’m already know html , javascript , bootstrap , mysql , css & xml . <br>
 ✔️ 📝 I’m currently learning php, python & ethical courses .<br>
-✔️ 🤹‍♂️ For Chill Join Discord :- https://discord.gg/m69qZNQ2w6  <br>
+✔️ 🤹‍♂️ For Chill Join Discord :- <a href="https://discord.gg/m69qZNQ2w6">Join Here</a><br>
 ✔️ 📧 E-Mail at :- techiesneh@gmail.com <br>
 ✔️ ☎ Contact me :- <a href="https://t.me/techiesneh">Telegram</a><br>
 
