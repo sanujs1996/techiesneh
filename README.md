@@ -20,13 +20,13 @@
 
 ## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
-✔️ 👋 Hi, I’m @techiesneh .<br>
-✔️ 👀 I’m interested in coding & little bit in hacking stuffs .<br>
-✔️ 🤠 I’m already know html , javascript , bootstrap , mysql , css & xml . <br>
-✔️ 📝 I’m currently learning php, python & ethical courses .<br>
-✔️ 🤹‍♂️ For Chill Join Discord :- https://bit.ly/discord-techiesneh <br>
-✔️ 📧 E-Mail at :- techiesneh@gmail.com <br>
-✔️ ☎ Contact me :- <a href="https://t.me/techiesneh">Telegram</a><br>
+✔️ 👋 ʜɪ, ɪ’ᴍ @ᴛᴇᴄʜɪᴇꜱɴᴇʜ .<br>
+✔️ 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ & ʟɪᴛᴛʟᴇ ʙɪᴛ ɪɴ ʜᴀᴄᴋɪɴɢ ꜱᴛᴜꜰꜰꜱ .<br>
+✔️ 🤠 ɪ’ᴍ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ʜᴛᴍʟ , ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ , ʙᴏᴏᴛꜱᴛʀᴀᴘ , ᴍʏꜱQʟ , ᴄꜱꜱ & xᴍʟ . <br>
+✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʜᴘ, ᴘʏᴛʜᴏɴ & ᴇᴛʜɪᴄᴀʟ ᴄᴏᴜʀꜱᴇꜱ .<br>
+✔️ 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ ᴅɪꜱᴄᴏʀᴅ :- https://bit.ly/discord-techiesneh <br>
+✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- techiesneh@gmail.com <br>
+✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- <a href="https://t.me/techiesneh">Telegram</a><br>
 
 ## 📓 ꜱᴏᴍᴇ ᴏꜰ ᴍʏ ᴡᴏʀᴋꜱ :
 
