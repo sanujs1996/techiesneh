@@ -1,8 +1,8 @@
 <!-- Copyrights Techie Sneh  -->
 
-<h1 align="center">&nbsp;<a href="http://techiesneh.rf.gd"><img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/575a20918d349a354cc636a0d49b35a0.gif" width="40px"></a> I'm Sneh <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="40px"> <br> <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/techies.png" width="48px"> </h1>
+<h1 align="center">&nbsp;<a href="http://techiesneh.rf.gd"><img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/575a20918d349a354cc636a0d49b35a0.gif" width="40px"></a> ɪ'ᴍ ꜱɴᴇʜ <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="40px"> <br> <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/techies.png" width="48px"> </h1>
 
-<h4 align="center">Always Plays with Languages 🐍 <br> I Like to work Privately 🔏 <br> 🤹‍♂️ For Chill Join Discord :- https://bit.ly/discord-techiesneh <br></h4>
+<h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br> 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ ᴅɪꜱᴄᴏʀᴅ :- https://bit.ly/discord-techiesneh <br></h4>
 
 <p align='center'> 
 <a href="https://codepen.io/techiesneh"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 
 <p align="center"><a href="https://t.me/techiesneh"><img src="techiesneh.gif" alt="Hello" /></a></p><br>
 
-### ⚔️ About Me: <br>
+## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
 ✔️ 👋 Hi, I’m @techiesneh .<br>
 ✔️ 👀 I’m interested in coding & little bit in hacking stuffs .<br>
@@ -28,17 +28,15 @@
 ✔️ 📧 E-Mail at :- techiesneh@gmail.com <br>
 ✔️ ☎ Contact me :- <a href="https://t.me/techiesneh">Telegram</a><br>
 
-### 📓 Some of My Works :
+## 📓 ꜱᴏᴍᴇ ᴏꜰ ᴍʏ ᴡᴏʀᴋꜱ :
 
-1. IPTV WEB APP : https://snehiptv.netlify.app/  <br />
-2. JIOTOKEN GENERATOR : http://jiologin.epizy.com/ <br />
-3. TYPING GAME : https://typing-boost.netlify.app/ <br />
-4. FILESTREAM BOT : https://bit.ly/FileStream_Bot <br />
-5. TATASKY WEB PHP : Coming Soon
+1. ɪᴘᴛᴠ ᴡᴇʙ ᴀᴘᴘ : https://snehiptv.netlify.app/  <br />
+2. ᴊɪᴏᴛᴏᴋᴇɴ ɢᴇɴᴇʀᴀᴛᴏʀ : http://jiologin.epizy.com/ <br />
+3. ᴛʏᴘɪɴɢ ɢᴀᴍᴇ : https://typing-boost.netlify.app/ <br />
+4. ꜰɪʟᴇꜱᴛʀᴇᴀᴍ ʙᴏᴛ : https://bit.ly/FileStream_Bot <br />
+5. ᴛᴀᴛᴀꜱᴋʏ ᴡᴇʙ ᴘʜᴘ : ℂ𝕠𝕞𝕚𝕟𝕘 𝕊𝕠𝕠𝕟 <br>
 
-<br />
-
-### ⚓ Languages and Tools:
+## ⚓ ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ :
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 
@@ -57,7 +55,7 @@
 <br />
 <br />
 
-### 🧬 Softwares:
+## 🧬 ꜱᴏꜰᴛᴡᴀʀᴇꜱ :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" />
 <a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="Premiere Pro" width="40px" src="https://download.logo.wine/logo/Adobe_Premiere_Pro/Adobe_Premiere_Pro-Logo.wine.png"/> </a> 
@@ -70,6 +68,6 @@
 <br />
 
 
-### ⚡️ Stats 
+## ⚡️ ꜱᴛᴀᴛꜱ 
 
 ![TechieSneh's github stats](https://github-stats-alpha.vercel.app/api/?username=techiesneh)
