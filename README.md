@@ -1,6 +1,6 @@
 <!-- Copyrights Techie Sneh  -->
 
-<h1 align="center">&nbsp;<a href="http://techiesneh.rf.gd"> <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/techies.png" width="48px"> </a> <br><img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/575a20918d349a354cc636a0d49b35a0.gif" width="40px"> ɪ'ᴍ ꜱɴᴇʜ <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="40px"> </h1><br>
+<h1 align="center">&nbsp;<a href="http://techiesneh.rf.gd"> <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/techies.png" width="48px"> </a> <br><img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/575a20918d349a354cc636a0d49b35a0.gif" width="40px"> ɪ'ᴍ ꜱɴᴇʜ <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="40px"> </h1> 
 
 <h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br> 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ ᴅɪꜱᴄᴏʀᴅ :- https://bit.ly/discord-techiesneh <br></h4>
 
