@@ -30,11 +30,12 @@
 
 ## 📓 ꜱᴏᴍᴇ ᴏꜰ ᴍʏ ᴡᴏʀᴋꜱ :
 
-1. ɪᴘᴛᴠ ᴡᴇʙ ᴀᴘᴘ : https://snehiptv.netlify.app/  <br />
-2. ᴊɪᴏᴛᴏᴋᴇɴ ɢᴇɴᴇʀᴀᴛᴏʀ : http://jiologin.epizy.com/ <br />
-3. ᴛʏᴘɪɴɢ ɢᴀᴍᴇ : https://typing-boost.netlify.app/ <br />
-4. ꜰɪʟᴇꜱᴛʀᴇᴀᴍ ʙᴏᴛ : https://bit.ly/FileStream_Bot <br />
-5. ᴛᴀᴛᴀꜱᴋʏ ᴡᴇʙ ᴘʜᴘ : ℂ𝕠𝕞𝕚𝕟𝕘 𝕊𝕠𝕠𝕟 <br>
+1. ᴊɪᴏᴛᴠ ᴡᴇʙ ᴘʜᴘ : https://bit.ly/snehjiotv <br>
+2. ɪᴘᴛᴠ ᴡᴇʙ ᴀᴘᴘ : https://snehiptv.netlify.app/  <br />
+3. ᴊɪᴏᴛᴏᴋᴇɴ ɢᴇɴᴇʀᴀᴛᴏʀ : http://jiologin.epizy.com/ <br />
+4. ᴛʏᴘɪɴɢ ɢᴀᴍᴇ : https://typing-boost.netlify.app/ <br />
+5. ꜰɪʟᴇꜱᴛʀᴇᴀᴍ ʙᴏᴛ : https://bit.ly/FileStream_Bot <br />
+
 
 ## ⚓ ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ :
 
