@@ -30,7 +30,7 @@
 
 ## 📓 ꜱᴏᴍᴇ ᴏꜰ ᴍʏ ᴡᴏʀᴋꜱ :
 
-1. ᴊɪᴏᴛᴠ ᴡᴇʙ ᴘʜᴘ : https://bit.ly/snehjiotv <br>
+1. ᴊɪᴏᴛᴠ ᴡᴇʙ ᴘʜᴘ : https://bit.ly/snehjiotvnew <br>
 2. ɪᴘᴛᴠ ᴡᴇʙ ᴀᴘᴘ : https://snehiptv.netlify.app/  <br />
 3. ᴊɪᴏᴛᴏᴋᴇɴ ɢᴇɴᴇʀᴀᴛᴏʀ : http://jiologin.epizy.com/ <br />
 4. ᴛʏᴘɪɴɢ ɢᴀᴍᴇ : https://typing-boost.netlify.app/ <br />
