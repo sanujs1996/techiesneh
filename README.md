@@ -33,8 +33,9 @@
 1. ᴊɪᴏᴛᴠ ᴡᴇʙ ᴘʜᴘ : https://bit.ly/snehjiotvnew <br>
 2. ɪᴘᴛᴠ ᴡᴇʙ ᴀᴘᴘ : https://snehiptv.netlify.app/  <br />
 3. ᴊɪᴏᴛᴏᴋᴇɴ ɢᴇɴᴇʀᴀᴛᴏʀ : http://jiologin.epizy.com/ <br />
-4. ᴛʏᴘɪɴɢ ɢᴀᴍᴇ : https://typing-boost.netlify.app/ <br />
-5. ꜰɪʟᴇꜱᴛʀᴇᴀᴍ ʙᴏᴛ : https://bit.ly/FileStream_Bot <br />
+4. ᴛʏᴘɪɴɢ ᴍᴀꜱᴛᴇʀ : https://typing-boost.netlify.app/ <br />
+5. ᴘʀᴏ-ᴋᴇʏʙᴏᴀʀᴅ ᴛʏᴘɪɴɢ : https://pro-keyboard.netlify.app/ <br />
+6. ꜰɪʟᴇꜱᴛʀᴇᴀᴍ ʙᴏᴛ : https://bit.ly/FileStream_Bot <br />
 
 
 ## ⚓ ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ :
