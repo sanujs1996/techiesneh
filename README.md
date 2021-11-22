@@ -2,7 +2,7 @@
 
 <h1 align="center">&nbsp;<a href="http://techiesneh.rf.gd"> <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/techies.png" width="48px"> </a> <br><img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/575a20918d349a354cc636a0d49b35a0.gif" width="40px"> ɪ'ᴍ ꜱɴᴇʜ <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="40px"> </h1> 
 
-<h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br> 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ ᴅɪꜱᴄᴏʀᴅ :- https://bit.ly/discord-techiesneh <br></h4>
+<h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br> 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ ᴅɪꜱᴄᴏʀᴅ :- https://snehtv.tk/sneh-discord <br></h4>
 
 <p align='center'> 
 <a href="https://codepen.io/techiesneh"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
@@ -24,18 +24,18 @@
 ✔️ 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ & ʟɪᴛᴛʟᴇ ʙɪᴛ ɪɴ ʜᴀᴄᴋɪɴɢ ꜱᴛᴜꜰꜰꜱ .<br>
 ✔️ 🤠 ɪ’ᴍ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ʜᴛᴍʟ , ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ , ʙᴏᴏᴛꜱᴛʀᴀᴘ , ᴍʏꜱQʟ , ᴄꜱꜱ & xᴍʟ . <br>
 ✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʜᴘ, ᴘʏᴛʜᴏɴ & ᴇᴛʜɪᴄᴀʟ ᴄᴏᴜʀꜱᴇꜱ .<br>
-✔️ 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ ᴅɪꜱᴄᴏʀᴅ :- https://bit.ly/discord-techiesneh <br>
+✔️ 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ ᴅɪꜱᴄᴏʀᴅ :- https://snehtv.tk/sneh-discord <br>
 ✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- techiesneh@gmail.com <br>
 ✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- <a href="https://t.me/techiesneh">Telegram</a><br>
 
 ## 📓 ꜱᴏᴍᴇ ᴏꜰ ᴍʏ ᴡᴏʀᴋꜱ :
 
-1. ᴊɪᴏᴛᴠ ᴡᴇʙ ᴘʜᴘ : https://bit.ly/snehjiotvnew <br>
+1. ᴊɪᴏᴛᴠ ᴡᴇʙ ᴘʜᴘ : https://snehtv.tk/jiotv <br>
 2. ɪᴘᴛᴠ ᴡᴇʙ ᴀᴘᴘ : https://snehiptv.netlify.app/  <br />
 3. ᴊɪᴏᴛᴏᴋᴇɴ ɢᴇɴᴇʀᴀᴛᴏʀ : http://jiologin.epizy.com/ <br />
 4. ᴛʏᴘɪɴɢ ᴍᴀꜱᴛᴇʀ : https://typing-boost.netlify.app/ <br />
 5. ᴘʀᴏ-ᴋᴇʏʙᴏᴀʀᴅ ᴛʏᴘɪɴɢ : https://pro-keyboard.netlify.app/ <br />
-6. ꜰɪʟᴇꜱᴛʀᴇᴀᴍ ʙᴏᴛ : https://bit.ly/FileStream_Bot <br />
+6. ꜰɪʟᴇꜱᴛʀᴇᴀᴍ ʙᴏᴛ : https://snehtv.tk/FileStream_Bot <br />
 
 
 ## ⚓ ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ :
