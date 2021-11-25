@@ -10,7 +10,7 @@
 <a href="https://techiesneh.rf.gd"><img height="25" src="https://img.shields.io/badge/Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/techiesneh"><img height="25" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/techiesneh"><img height="25" src="https://img.shields.io/badge/hackerrank-%23ffffff.svg?&style=for-the-badge&logo=hackerrank&logoColor=green"></a>&nbsp;&nbsp;   
-<a href="https://discord.gg/m69qZNQ2w6"><img height="25" src="https://img.shields.io/badge/join discord-%23ffffff.svg?&style=for-the-badge&logo=discord&logoColor=blue"></a>&nbsp;&nbsp; 
+<a href="https://snehtv.tk/sneh-discord"><img height="25" src="https://img.shields.io/badge/join discord-%23ffffff.svg?&style=for-the-badge&logo=discord&logoColor=blue"></a>&nbsp;&nbsp; 
 </p>
 
 
@@ -32,7 +32,7 @@
 
 1. ᴊɪᴏᴛᴠ ᴡᴇʙ ᴘʜᴘ : https://snehtv.tk/jiotv <br>
 2. ɪᴘᴛᴠ ᴡᴇʙ ᴀᴘᴘ : https://snehiptv.netlify.app/  <br />
-3. ᴊɪᴏᴛᴏᴋᴇɴ ɢᴇɴᴇʀᴀᴛᴏʀ : http://jiologin.epizy.com/ <br />
+3. ᴊɪᴏᴛᴏᴋᴇɴ ɢᴇɴᴇʀᴀᴛᴏʀ : http://jiologin.epizy.com/ [ꜱᴜꜱᴘᴇɴᴅᴇᴅ]<br />
 4. ᴛʏᴘɪɴɢ ᴍᴀꜱᴛᴇʀ : https://typing-boost.netlify.app/ <br />
 5. ᴘʀᴏ-ᴋᴇʏʙᴏᴀʀᴅ ᴛʏᴘɪɴɢ : https://pro-keyboard.netlify.app/ <br />
 6. ꜰɪʟᴇꜱᴛʀᴇᴀᴍ ʙᴏᴛ : https://snehtv.tk/FileStream_Bot <br />
