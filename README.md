@@ -33,7 +33,7 @@
 0. ꜱɴᴇʜᴛᴠ ᴡᴇʙ : https://snehtv.tk/ <br>
 1. ᴊɪᴏᴛᴠ ᴡᴇʙ ᴘʜᴘ : https://snehtv.tk/jiotv <br>
 2. ɪᴘᴛᴠ ᴡᴇʙ ᴀᴘᴘ : https://snehiptv.netlify.app/  <br />
-3. ᴊɪᴏᴛᴏᴋᴇɴ ɢᴇɴᴇʀᴀᴛᴏʀ : http://jiologin.epizy.com/ [ꜱᴜꜱᴘᴇɴᴅᴇᴅ]<br />
+3. ᴊɪᴏᴛᴏᴋᴇɴ ɢᴇɴᴇʀᴀᴛᴏʀ : http://jiologin.unaux.com/ <br />
 4. ᴛʏᴘɪɴɢ ᴍᴀꜱᴛᴇʀ : https://typing-boost.netlify.app/ <br />
 5. ᴘʀᴏ-ᴋᴇʏʙᴏᴀʀᴅ ᴛʏᴘɪɴɢ : https://pro-keyboard.netlify.app/ <br />
 6. ꜰɪʟᴇꜱᴛʀᴇᴀᴍ ʙᴏᴛ : https://snehtv.tk/FileStream_Bot <br />
