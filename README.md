@@ -37,6 +37,8 @@
 4. ᴛʏᴘɪɴɢ ᴍᴀꜱᴛᴇʀ : https://typing-boost.netlify.app/ <br />
 5. ᴘʀᴏ-ᴋᴇʏʙᴏᴀʀᴅ ᴛʏᴘɪɴɢ : https://pro-keyboard.netlify.app/ <br />
 6. ꜰɪʟᴇꜱᴛʀᴇᴀᴍ ʙᴏᴛ : https://snehtv.tk/FileStream_Bot <br />
+7. ᴡᴇᴀᴛʜᴇʀ ᴡᴇʙᴀᴘᴘ : https://sneh-weatherapp.netlify.app/ <br />
+8. ɴᴇᴡꜱᴀɪ ᴡᴇʙᴀᴘᴘ : https://sneh-newsai.netlify.app/ <br />
 
 
 ## ⚓ ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ :
